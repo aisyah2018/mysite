@@ -2,6 +2,6 @@
 title: "About me"
 ---
 
--__Name:__Yuslina
+-__Name:__Siti
 -__Position:__Lecturer
 -__Affiliation:__Faculty of Pharmacy, UiTM
